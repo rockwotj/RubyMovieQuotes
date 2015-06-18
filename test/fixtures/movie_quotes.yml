@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie: 
+  quote: 
+  last_touch: 2015-06-18 09:11:31
+
+two:
+  movie: 
+  quote: 
+  last_touch: 2015-06-18 09:11:31
